@@ -1,4 +1,4 @@
-<h1 align="center">💻 Atif Mahmood – Manual QA Engineer</h1>
+<h1 align="center">💻 Atif Mahmood – QA Engineer</h1>
 
 <p align="center">
   <b>Web & Mobile Testing | AI & Blockchain Projects | 2+ Years Experience</b><br>
