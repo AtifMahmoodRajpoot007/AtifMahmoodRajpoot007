@@ -15,7 +15,7 @@ I am a **Senior QA Engineer** with over 3 years of experience in architecting qu
 
 ### 🚀 What I'm working on right now:
 * Developing a custom **AI-powered QA Copilot MVP** to automate 50% of existing QA workflows.
-* [cite_start]Scaling automated UI regression suites using **Testim** to reduce manual overhead by 40%[cite: 20].
+* Scaling automated UI regression suites using **Testim** to reduce manual overhead by 40%
 
 ---
 
@@ -23,10 +23,10 @@ I am a **Senior QA Engineer** with over 3 years of experience in architecting qu
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Automation & Testing** | [cite_start]Testim, JMeter, Postman, Swagger, API Validation, Smoke & Regression [cite: 12, 58, 59, 79, 81] |
+| **Automation & Testing** | [cite_start]Testim, JMeter, Postman, Swagger, API Validation, Smoke & Regression  |
 | **Development** | Node.js, Express, React, MongoDB, MySQL, JavaScript |
-| **Specialized Domains** | [cite_start]AI (LLM Testing), Blockchain (NFTs, Smart Contracts, Metamask) [cite: 39, 53, 77] |
-| **Workflow** | [cite_start]Agile/Scrum, JIRA, Monday.com, GitHub, SDLC Leadership [cite: 12, 19, 71, 72] |
+| **Specialized Domains** | [cite_start]AI (LLM Testing), Blockchain (NFTs, Smart Contracts, Metamask)|
+| **Workflow** | [cite_start]Agile/Scrum, JIRA, Monday.com, GitHub, SDLC Leadership  |
 
 ---
 
@@ -35,9 +35,9 @@ I am a **Senior QA Engineer** with over 3 years of experience in architecting qu
 👉 **[View My Full Portfolio](https://github.com/atifmahmood/qa-portfolio)**
 
 **Key Documentation Examples:**
-- [cite_start]🤖 **AI Test Frameworks:** LLM logic validation and image generation testing workflows[cite: 39].
-- [cite_start]⛓️ **Web3 Testing:** Smart contract interaction and wallet integration test plans[cite: 53, 77].
-- [cite_start]📑 **Strategic Planning:** End-to-end Test Plans, Bug Lifecycle management, and API Collections[cite: 19, 70].
+- 🤖 **AI Test Frameworks:** LLM logic validation and image generation testing workflows.
+- ⛓️ **Web3 Testing:** Smart contract interaction and wallet integration test plans.
+- 📑 **Strategic Planning:** End-to-end Test Plans, Bug Lifecycle management, and API Collections.
 
 ---
 
